@@ -1,0 +1,5 @@
+input_processing.c:44:6:reset_mode_1	8	static
+input_processing.c:57:6:fsm_for_mode1_auto	8	static
+input_processing.c:108:13:increment_temp_value	4	static
+input_processing.c:122:6:fsm_for_led_blinking	8	static
+input_processing.c:164:6:fsm_for_input_processing	8	static
